@@ -1,4 +1,4 @@
-import 'package:firebase_auth/firebase_auth.dart';
+ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:perfex_e_learning/helpers/constants.dart';
 import 'package:perfex_e_learning/models/model_video.dart';
 
