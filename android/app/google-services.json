@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196249701870",
+    "project_id": "perfex-e-learning",
+    "storage_bucket": "perfex-e-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196249701870:android:3734439e5b938f102352ff",
+        "android_client_info": {
+          "package_name": "com.perfex.perfex_e_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196249701870-vvp0rpmdsn3ml9ltvi4rsh2moqn7iaoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perfex.perfex_e_learning",
+            "certificate_hash": "97b2be79441257e0094efd48dab1b2c47736c944"
+          }
+        },
+        {
+          "client_id": "196249701870-6mpbu5j1n52nuqh3b4fcss3f8nv9253h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OgRIoOe-DfkG0Ko6ByfuvCfZhBlSezA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196249701870-6mpbu5j1n52nuqh3b4fcss3f8nv9253h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
